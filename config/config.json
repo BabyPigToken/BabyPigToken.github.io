@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x96191ba37a8c5c693f90aa08AF425Ce4971856Dd",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0x96191ba37a8c5c693f90aa08AF425Ce4971856Dd",
+  "NETWORK": {
+    "NAME": "BSC TestNet",
+    "SYMBOL": "BSC",
+    "ID": 97
+  },
+  "NFT_NAME": "PiggyPunksTest",
+  "SYMBOL": "PiggyT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Treasureland",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
